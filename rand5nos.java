@@ -7,7 +7,7 @@ public class rand5nos {
         Random random=new Random();
         
         int a=100; 
-        int b=500;
+        int b=999;
         
         System.out.println("Generating random number of three digit ");
 	
